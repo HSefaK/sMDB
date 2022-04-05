@@ -2,7 +2,7 @@ import Foundation
 
 struct Utils {
     
-    static let apiKey = "324cf4d696200f1e00d72706e1ec4f05"
+    static let apiKey = "YOURAPIHERE"
     static let language = "en-US"
     static let baseImageUrl = "https://image.tmdb.org/t/p/w500/"
     static let baseUrl = "https://api.themoviedb.org/3/movie/"
